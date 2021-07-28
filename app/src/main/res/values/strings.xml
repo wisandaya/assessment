@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assessment</string>
+
+
+    <string name="spnr_prompt">Gender</string>
+    <string-array name="Gender_Option">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
